@@ -1,2 +1,2 @@
 # descargas
-# <a href="../index.html">Ir a la página principal</a>
+# <a href="/">Ir a la página principal</a>
