@@ -1,2 +1,2 @@
 # descargas
-#<a href="pizzaclap43.github.io">Ir a la página principal</a>
+# <a href=".main">Ir a la página principal</a>
