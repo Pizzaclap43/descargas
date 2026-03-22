@@ -8,3 +8,4 @@
 # <a href="https://gamejolt.com/get/build?game=1009940&build=1803013">JOLLY 2 Remastered Android
 # <a href="https://detectivepikac2.itch.io/the-hour-of-joy-demo">The Hour Of Joy Demo
 # <a href="https://filespayouts.com/5t4yfvx8yjqg">My Femboy Roomate
+# <a href="https://www.mediafire.com/file/6kb77f5qxdcfzd6/GTA_SA_Opti_V3.7z/file">GTA San Andreas (Lite)
