@@ -11,7 +11,8 @@
 # <a href="https://www.mediafire.com/file/6kb77f5qxdcfzd6/GTA_SA_Opti_V3.7z/file">GTA San Andreas (Lite)
 # <a href="https://www.mediafire.com/file/9ith69mi5mlsd84/LiteCraft_1.18_-_V1.3.zip/file">LiteCraft PC
 # <a href="https://www.mediafire.com/file/364tionsjyudyfj/LiteCraft_PE_1.18.32.apk/file">LiteCraft Android
-# <a href="https://www.mediafire.com/file/hqk4smpu51umcf7/GTA_Vice_City_Opti_V2.7z/file">GTA Vice City
+# <a href="https://www.mediafire.com/file/o3c8866izwsg14s/GTA_Vice_City.7z/file">GTA Vice City
+# <a href="https://www.mediafire.com/file/bc6xeq9epjkf8ey/GTA-SA_Enhanced.exe/file">GTA San Andreas Enhanced
 # <a href="https://www.mediafire.com/file/gxaatbauv0qyebe/pack_de_juegos_android.rar/file">Pack de juegos Android
 # <a href="https://gamejolt.com/games/vhs-bh/910075?feed_last_id=%7B%22ver%22%3A%221%22%2C%22pos%22%3A%221721489972.166%22%7D">UNDERTALE: The Hackers End
 # <a href="https://www.mediafire.com/file/3612l0yvw09zjzs/Plantas_Vs_Zombies_Hard_Mode_PVZReal.rar/file">PVZ Hard Mode PC (Vesión en español)
@@ -19,3 +20,7 @@
 # <a href="https://www.mediafire.com/file/04ikaxn8f44qj37/Undertale_Bits_And_Pieces_Android_Ultima_Version.apk/file">UNDERTALE Bits And Pieces Android (contraseña: wander1)
 # <a href="https://app.box.com/s/el62zzqd5mv6ghrg0cxe">Juegos de Gameloft para Android
 # <a href="https://beach-buggy-racing.uptodown.com/android#google_vignette">Beach Buggy Racing
+# <a href="https://www.mediafire.com/file/u7ksuf7cauzw038/SIERRA_%2528HALF_LIFE_1110%2529.7z/file">SIERRA (HALF LIFE 1110)
+# <a href="https://www.mediafire.com/file/rrywbastp26m30s/Half-Life_1.exe/file">Half-Life 1
+# <a href="https://www.mediafire.com/file/n9f2msdzngd25m3/Quake2Repack.rar/file">Quake2Repack
+# <a href="https://www.mediafire.com/file/o25iehqo6xdtr9n/indev.zip/file">Minecraft indev
