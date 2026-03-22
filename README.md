@@ -9,3 +9,5 @@
 # <a href="https://detectivepikac2.itch.io/the-hour-of-joy-demo">The Hour Of Joy Demo
 # <a href="https://filespayouts.com/5t4yfvx8yjqg">My Femboy Roomate
 # <a href="https://www.mediafire.com/file/6kb77f5qxdcfzd6/GTA_SA_Opti_V3.7z/file">GTA San Andreas (Lite)
+# <a href="https://www.mediafire.com/file/9ith69mi5mlsd84/LiteCraft_1.18_-_V1.3.zip/file">LiteCraft PC
+# <a href="https://www.mediafire.com/file/364tionsjyudyfj/LiteCraft_PE_1.18.32.apk/file"LiteCraft Android
