@@ -12,3 +12,4 @@
 # <a href="https://www.mediafire.com/file/9ith69mi5mlsd84/LiteCraft_1.18_-_V1.3.zip/file">LiteCraft PC
 # <a href="https://www.mediafire.com/file/364tionsjyudyfj/LiteCraft_PE_1.18.32.apk/file">LiteCraft Android
 # <a href="https://www.mediafire.com/file/hqk4smpu51umcf7/GTA_Vice_City_Opti_V2.7z/file">GTA Vice City
+# <a href="https://www.mediafire.com/file/gxaatbauv0qyebe/pack_de_juegos_android.rar/file">Pack de juegos Android
