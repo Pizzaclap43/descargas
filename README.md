@@ -6,3 +6,4 @@
 # <a href="https://gamejolt.com/get/build?game=197334&build=415579">JOLLY 2 Android
 # <a href="https://gamejolt.com/get/build?game=197334&build=523324">JOLLY 2 PC
 # <a href="https://gamejolt.com/get/build?game=1009940&build=1803013">JOLLY 2 Remastered Android
+# <a href="https://detectivepikac2.itch.io/the-hour-of-joy-demo">The Hour Of Joy Demo
